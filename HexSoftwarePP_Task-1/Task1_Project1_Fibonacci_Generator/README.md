@@ -12,5 +12,4 @@ This project generates the Fibonacci series using Python.
 - Python 3
 
 ## How to Run
-
 python fibonacci_generator.py
