@@ -11,5 +11,5 @@ This project generates the Fibonacci series using Python.
 ## Technologies Used
 - Python 3
 
-## How to Run
+### How to Run
 python fibonacci_generator.py
