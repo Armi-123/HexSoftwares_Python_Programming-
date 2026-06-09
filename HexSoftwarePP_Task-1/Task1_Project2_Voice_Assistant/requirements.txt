@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+pyaudio
+
+
+# git add .
+# git commit -m "Completed Task 1 Project 2 - Voice Assistant with Speech Recognition and Browser Automation"
+# git push origin main
