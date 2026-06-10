@@ -193,4 +193,4 @@ python tic_tac_toe.py
 
 **Armi Sherathiya**
 
-Hex Softwares  Python Programming  Project
+Hex Softwares Python Programming Project
