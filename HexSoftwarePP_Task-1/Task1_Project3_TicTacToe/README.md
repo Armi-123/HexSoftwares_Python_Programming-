@@ -186,7 +186,6 @@ Task1_Project3_TicTacToe/
 ```bash
 python tic_tac_toe.py
 ```
-
 ---
 
 ## 👨‍💻 Author
