@@ -19,9 +19,14 @@ def take_command():
     try:
         with sr.Microphone() as source:
             print("\nListening...")
+
             listener.adjust_for_ambient_noise(source, duration=1)
 
-            audio = listener.listen(source)
+            audio = listener.listen(
+                source,
+                timeout=5,
+                phrase_time_limit=5
+            )
 
             command = listener.recognize_google(audio)
             command = command.lower()
@@ -30,8 +35,20 @@ def take_command():
 
             return command
 
-    except:
-        print("Waiting for command...")
+    except sr.WaitTimeoutError:
+        print("No speech detected.")
+        return ""
+
+    except sr.UnknownValueError:
+        print("Could not understand audio.")
+        return ""
+
+    except sr.RequestError:
+        print("No internet connection.")
+        return ""
+
+    except Exception as e:
+        print("Error:", e)
         return ""
 
 # Main Assistant
