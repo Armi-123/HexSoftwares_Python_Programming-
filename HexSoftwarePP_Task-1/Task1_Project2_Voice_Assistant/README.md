@@ -134,7 +134,6 @@ Stop
 Exit
 Goodbye
 ```
-
 ---
 
 ## 📷 Sample Output
