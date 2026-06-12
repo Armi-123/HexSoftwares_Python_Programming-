@@ -57,7 +57,6 @@ All expense records are automatically saved in:
 ```text
 expenses.csv
 ```
-
 ---
 
 ## 🛠️ Technologies Used
@@ -134,7 +133,6 @@ Food    500.0
 
 Total Expense: 500.0
 ```
-
 ---
 
 ## 📁 Output File
