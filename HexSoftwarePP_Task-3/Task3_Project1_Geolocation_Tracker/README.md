@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 
-
 The IP Geolocation Tracker is a Python-based application that allows users to enter any valid IP address and retrieve its geographical location information. The application fetches details such as city, state, country, latitude, and longitude using a geolocation API and visualizes the location on an interactive map.
 
 The generated map contains a marker indicating the detected location and is automatically opened in the user's web browser.
