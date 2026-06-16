@@ -102,14 +102,12 @@ This project was developed as part of the **Hex Softwares Python Programming Int
 1 2 3 4
 5 6 7 8
 ```
-
 ### Hidden Board
 
 ```text
 * * * *
 * * * *
 ```
-
 ---
 
 ## 📷 Sample Output
@@ -141,7 +139,6 @@ You matched all pairs.
 Total Moves: 10
 Time Taken: 45.23 seconds
 ```
-
 ---
 
 ## 🔍 Key Outcomes
