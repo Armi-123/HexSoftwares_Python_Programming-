@@ -217,4 +217,4 @@ python memory_puzzle.py
 
 **Armi Sherathiya**
 
-Hex Softwares Python Programming    Project
+Hex Softwares Python Programming Project
