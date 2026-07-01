@@ -31,7 +31,6 @@ A Python application that tracks the geographical location of an IP address and 
 ```
 Task3_Project1_Geolocation_Tracker/
 ```
-
 ---
 
 ## 📁 Project 2 – Memory Puzzle Game
