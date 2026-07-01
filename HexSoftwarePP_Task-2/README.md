@@ -56,7 +56,6 @@ A simple console-based expense tracker that helps users record and manage daily 
 ```
 Task2_Project2_Expense_Tracker/
 ```
-
 ---
 
 ## 📁 Project 3 – Rent Calculator
